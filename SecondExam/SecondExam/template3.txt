@@ -1,0 +1,7 @@
+Dear <<N>>,
+
+Are you <<A>> years old and <<G>>?
+If you are,Please call me.I have something to tell you.
+
+Thank you,
+YoyoWang

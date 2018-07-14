@@ -1,0 +1,7 @@
+Dear <<N>>,
+
+you are <<A>> years old and <<G>>.
+Me,too.Would you like to be my friend?
+
+Thank you,
+Andy
